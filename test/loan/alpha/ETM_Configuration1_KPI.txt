@@ -1,0 +1,400 @@
+AvgAccept+complete->Accept+complete,0.0
+AvgAccept+complete->Calculate Capacity+complete,NaN
+AvgAccept+complete->Check Credit+complete,NaN
+AvgAccept+complete->Check Paper Archive+complete,0.0
+AvgAccept+complete->Check System+complete,NaN
+AvgAccept+complete->Process Credit Check Reply+complete,0.0
+AvgAccept+complete->Register Application+complete,NaN
+AvgAccept+complete->Reject+complete,NaN
+AvgAccept+complete->Send Credit Check Request+complete,0.0
+AvgAccept+complete->Send Decision E-mail+complete,244305.35
+AvgCalculate Capacity+complete->Accept+complete,344584.80000000005
+AvgCalculate Capacity+complete->Calculate Capacity+complete,0.0
+AvgCalculate Capacity+complete->Check Credit+complete,423342.75
+AvgCalculate Capacity+complete->Check Paper Archive+complete,0.0
+AvgCalculate Capacity+complete->Check System+complete,285681.63043478265
+AvgCalculate Capacity+complete->Process Credit Check Reply+complete,0.0
+AvgCalculate Capacity+complete->Register Application+complete,NaN
+AvgCalculate Capacity+complete->Reject+complete,457705.325
+AvgCalculate Capacity+complete->Send Credit Check Request+complete,0.0
+AvgCalculate Capacity+complete->Send Decision E-mail+complete,733895.92
+AvgCheck Credit+complete->Accept+complete,780635.05
+AvgCheck Credit+complete->Calculate Capacity+complete,420984.77173913026
+AvgCheck Credit+complete->Check Credit+complete,0.0
+AvgCheck Credit+complete->Check Paper Archive+complete,0.0
+AvgCheck Credit+complete->Check System+complete,426453.9024390245
+AvgCheck Credit+complete->Process Credit Check Reply+complete,0.0
+AvgCheck Credit+complete->Register Application+complete,NaN
+AvgCheck Credit+complete->Reject+complete,790490.975
+AvgCheck Credit+complete->Send Credit Check Request+complete,0.0
+AvgCheck Credit+complete->Send Decision E-mail+complete,1087334.4900000002
+AvgCheck Paper Archive+complete->Accept+complete,0.0
+AvgCheck Paper Archive+complete->Calculate Capacity+complete,0.0
+AvgCheck Paper Archive+complete->Check Credit+complete,0.0
+AvgCheck Paper Archive+complete->Check Paper Archive+complete,0.0
+AvgCheck Paper Archive+complete->Check System+complete,0.0
+AvgCheck Paper Archive+complete->Process Credit Check Reply+complete,0.0
+AvgCheck Paper Archive+complete->Register Application+complete,0.0
+AvgCheck Paper Archive+complete->Reject+complete,0.0
+AvgCheck Paper Archive+complete->Send Credit Check Request+complete,0.0
+AvgCheck Paper Archive+complete->Send Decision E-mail+complete,0.0
+AvgCheck System+complete->Accept+complete,489605.7368421052
+AvgCheck System+complete->Calculate Capacity+complete,343398.3181818182
+AvgCheck System+complete->Check Credit+complete,501254.5
+AvgCheck System+complete->Check Paper Archive+complete,0.0
+AvgCheck System+complete->Check System+complete,0.0
+AvgCheck System+complete->Process Credit Check Reply+complete,0.0
+AvgCheck System+complete->Register Application+complete,NaN
+AvgCheck System+complete->Reject+complete,460292.3521126761
+AvgCheck System+complete->Send Credit Check Request+complete,0.0
+AvgCheck System+complete->Send Decision E-mail+complete,766364.1333333335
+AvgProcess Credit Check Reply+complete->Accept+complete,0.0
+AvgProcess Credit Check Reply+complete->Calculate Capacity+complete,0.0
+AvgProcess Credit Check Reply+complete->Check Credit+complete,0.0
+AvgProcess Credit Check Reply+complete->Check Paper Archive+complete,0.0
+AvgProcess Credit Check Reply+complete->Check System+complete,0.0
+AvgProcess Credit Check Reply+complete->Process Credit Check Reply+complete,0.0
+AvgProcess Credit Check Reply+complete->Register Application+complete,0.0
+AvgProcess Credit Check Reply+complete->Reject+complete,0.0
+AvgProcess Credit Check Reply+complete->Send Credit Check Request+complete,0.0
+AvgProcess Credit Check Reply+complete->Send Decision E-mail+complete,0.0
+AvgRegister Application+complete->Accept+complete,1134453.75
+AvgRegister Application+complete->Calculate Capacity+complete,720540.6699999999
+AvgRegister Application+complete->Check Credit+complete,367102.10000000003
+AvgRegister Application+complete->Check Paper Archive+complete,0.0
+AvgRegister Application+complete->Check System+complete,712301.9111111109
+AvgRegister Application+complete->Process Credit Check Reply+complete,0.0
+AvgRegister Application+complete->Register Application+complete,0.0
+AvgRegister Application+complete->Reject+complete,1160913.9250000003
+AvgRegister Application+complete->Send Credit Check Request+complete,0.0
+AvgRegister Application+complete->Send Decision E-mail+complete,1454436.5899999996
+AvgReject+complete->Accept+complete,NaN
+AvgReject+complete->Calculate Capacity+complete,NaN
+AvgReject+complete->Check Credit+complete,NaN
+AvgReject+complete->Check Paper Archive+complete,0.0
+AvgReject+complete->Check System+complete,NaN
+AvgReject+complete->Process Credit Check Reply+complete,0.0
+AvgReject+complete->Register Application+complete,NaN
+AvgReject+complete->Reject+complete,0.0
+AvgReject+complete->Send Credit Check Request+complete,0.0
+AvgReject+complete->Send Decision E-mail+complete,312442.0374999999
+AvgSend Credit Check Request+complete->Accept+complete,0.0
+AvgSend Credit Check Request+complete->Calculate Capacity+complete,0.0
+AvgSend Credit Check Request+complete->Check Credit+complete,0.0
+AvgSend Credit Check Request+complete->Check Paper Archive+complete,0.0
+AvgSend Credit Check Request+complete->Check System+complete,0.0
+AvgSend Credit Check Request+complete->Process Credit Check Reply+complete,0.0
+AvgSend Credit Check Request+complete->Register Application+complete,0.0
+AvgSend Credit Check Request+complete->Reject+complete,0.0
+AvgSend Credit Check Request+complete->Send Credit Check Request+complete,0.0
+AvgSend Credit Check Request+complete->Send Decision E-mail+complete,0.0
+AvgSend Decision E-mail+complete->Accept+complete,NaN
+AvgSend Decision E-mail+complete->Calculate Capacity+complete,NaN
+AvgSend Decision E-mail+complete->Check Credit+complete,NaN
+AvgSend Decision E-mail+complete->Check Paper Archive+complete,0.0
+AvgSend Decision E-mail+complete->Check System+complete,NaN
+AvgSend Decision E-mail+complete->Process Credit Check Reply+complete,0.0
+AvgSend Decision E-mail+complete->Register Application+complete,NaN
+AvgSend Decision E-mail+complete->Reject+complete,NaN
+AvgSend Decision E-mail+complete->Send Credit Check Request+complete,0.0
+AvgSend Decision E-mail+complete->Send Decision E-mail+complete,0.0
+MaxAccept+complete->Accept+complete,0.0
+MaxAccept+complete->Calculate Capacity+complete,NaN
+MaxAccept+complete->Check Credit+complete,NaN
+MaxAccept+complete->Check Paper Archive+complete,0.0
+MaxAccept+complete->Check System+complete,NaN
+MaxAccept+complete->Process Credit Check Reply+complete,0.0
+MaxAccept+complete->Register Application+complete,NaN
+MaxAccept+complete->Reject+complete,NaN
+MaxAccept+complete->Send Credit Check Request+complete,0.0
+MaxAccept+complete->Send Decision E-mail+complete,491867.0
+MaxCalculate Capacity+complete->Accept+complete,856965.0
+MaxCalculate Capacity+complete->Calculate Capacity+complete,0.0
+MaxCalculate Capacity+complete->Check Credit+complete,592544.0
+MaxCalculate Capacity+complete->Check Paper Archive+complete,0.0
+MaxCalculate Capacity+complete->Check System+complete,595936.0
+MaxCalculate Capacity+complete->Process Credit Check Reply+complete,0.0
+MaxCalculate Capacity+complete->Register Application+complete,NaN
+MaxCalculate Capacity+complete->Reject+complete,1171690.0
+MaxCalculate Capacity+complete->Send Credit Check Request+complete,0.0
+MaxCalculate Capacity+complete->Send Decision E-mail+complete,1669826.0
+MaxCheck Credit+complete->Accept+complete,1607737.0
+MaxCheck Credit+complete->Calculate Capacity+complete,1073910.0
+MaxCheck Credit+complete->Check Credit+complete,0.0
+MaxCheck Credit+complete->Check Paper Archive+complete,0.0
+MaxCheck Credit+complete->Check System+complete,1089019.0
+MaxCheck Credit+complete->Process Credit Check Reply+complete,0.0
+MaxCheck Credit+complete->Register Application+complete,NaN
+MaxCheck Credit+complete->Reject+complete,1554325.0
+MaxCheck Credit+complete->Send Credit Check Request+complete,0.0
+MaxCheck Credit+complete->Send Decision E-mail+complete,2057716.0
+MaxCheck Paper Archive+complete->Accept+complete,0.0
+MaxCheck Paper Archive+complete->Calculate Capacity+complete,0.0
+MaxCheck Paper Archive+complete->Check Credit+complete,0.0
+MaxCheck Paper Archive+complete->Check Paper Archive+complete,0.0
+MaxCheck Paper Archive+complete->Check System+complete,0.0
+MaxCheck Paper Archive+complete->Process Credit Check Reply+complete,0.0
+MaxCheck Paper Archive+complete->Register Application+complete,0.0
+MaxCheck Paper Archive+complete->Reject+complete,0.0
+MaxCheck Paper Archive+complete->Send Credit Check Request+complete,0.0
+MaxCheck Paper Archive+complete->Send Decision E-mail+complete,0.0
+MaxCheck System+complete->Accept+complete,1086886.0
+MaxCheck System+complete->Calculate Capacity+complete,973134.0
+MaxCheck System+complete->Check Credit+complete,1031082.0
+MaxCheck System+complete->Check Paper Archive+complete,0.0
+MaxCheck System+complete->Check System+complete,0.0
+MaxCheck System+complete->Process Credit Check Reply+complete,0.0
+MaxCheck System+complete->Register Application+complete,NaN
+MaxCheck System+complete->Reject+complete,1217964.0
+MaxCheck System+complete->Send Credit Check Request+complete,0.0
+MaxCheck System+complete->Send Decision E-mail+complete,1727179.0
+MaxProcess Credit Check Reply+complete->Accept+complete,0.0
+MaxProcess Credit Check Reply+complete->Calculate Capacity+complete,0.0
+MaxProcess Credit Check Reply+complete->Check Credit+complete,0.0
+MaxProcess Credit Check Reply+complete->Check Paper Archive+complete,0.0
+MaxProcess Credit Check Reply+complete->Check System+complete,0.0
+MaxProcess Credit Check Reply+complete->Process Credit Check Reply+complete,0.0
+MaxProcess Credit Check Reply+complete->Register Application+complete,0.0
+MaxProcess Credit Check Reply+complete->Reject+complete,0.0
+MaxProcess Credit Check Reply+complete->Send Credit Check Request+complete,0.0
+MaxProcess Credit Check Reply+complete->Send Decision E-mail+complete,0.0
+MaxRegister Application+complete->Accept+complete,2162860.0
+MaxRegister Application+complete->Calculate Capacity+complete,1629033.0
+MaxRegister Application+complete->Check Credit+complete,1292650.0
+MaxRegister Application+complete->Check Paper Archive+complete,0.0
+MaxRegister Application+complete->Check System+complete,1533467.0
+MaxRegister Application+complete->Process Credit Check Reply+complete,0.0
+MaxRegister Application+complete->Register Application+complete,0.0
+MaxRegister Application+complete->Reject+complete,1846331.0
+MaxRegister Application+complete->Send Credit Check Request+complete,0.0
+MaxRegister Application+complete->Send Decision E-mail+complete,2433443.0
+MaxReject+complete->Accept+complete,NaN
+MaxReject+complete->Calculate Capacity+complete,NaN
+MaxReject+complete->Check Credit+complete,NaN
+MaxReject+complete->Check Paper Archive+complete,0.0
+MaxReject+complete->Check System+complete,NaN
+MaxReject+complete->Process Credit Check Reply+complete,0.0
+MaxReject+complete->Register Application+complete,NaN
+MaxReject+complete->Reject+complete,0.0
+MaxReject+complete->Send Credit Check Request+complete,0.0
+MaxReject+complete->Send Decision E-mail+complete,599376.0
+MaxSend Credit Check Request+complete->Accept+complete,0.0
+MaxSend Credit Check Request+complete->Calculate Capacity+complete,0.0
+MaxSend Credit Check Request+complete->Check Credit+complete,0.0
+MaxSend Credit Check Request+complete->Check Paper Archive+complete,0.0
+MaxSend Credit Check Request+complete->Check System+complete,0.0
+MaxSend Credit Check Request+complete->Process Credit Check Reply+complete,0.0
+MaxSend Credit Check Request+complete->Register Application+complete,0.0
+MaxSend Credit Check Request+complete->Reject+complete,0.0
+MaxSend Credit Check Request+complete->Send Credit Check Request+complete,0.0
+MaxSend Credit Check Request+complete->Send Decision E-mail+complete,0.0
+MaxSend Decision E-mail+complete->Accept+complete,NaN
+MaxSend Decision E-mail+complete->Calculate Capacity+complete,NaN
+MaxSend Decision E-mail+complete->Check Credit+complete,NaN
+MaxSend Decision E-mail+complete->Check Paper Archive+complete,0.0
+MaxSend Decision E-mail+complete->Check System+complete,NaN
+MaxSend Decision E-mail+complete->Process Credit Check Reply+complete,0.0
+MaxSend Decision E-mail+complete->Register Application+complete,NaN
+MaxSend Decision E-mail+complete->Reject+complete,NaN
+MaxSend Decision E-mail+complete->Send Credit Check Request+complete,0.0
+MaxSend Decision E-mail+complete->Send Decision E-mail+complete,0.0
+MinAccept+complete->Accept+complete,0.0
+MinAccept+complete->Calculate Capacity+complete,NaN
+MinAccept+complete->Check Credit+complete,NaN
+MinAccept+complete->Check Paper Archive+complete,0.0
+MinAccept+complete->Check System+complete,NaN
+MinAccept+complete->Process Credit Check Reply+complete,0.0
+MinAccept+complete->Register Application+complete,NaN
+MinAccept+complete->Reject+complete,NaN
+MinAccept+complete->Send Credit Check Request+complete,0.0
+MinAccept+complete->Send Decision E-mail+complete,43079.0
+MinCalculate Capacity+complete->Accept+complete,39786.0
+MinCalculate Capacity+complete->Calculate Capacity+complete,0.0
+MinCalculate Capacity+complete->Check Credit+complete,54773.0
+MinCalculate Capacity+complete->Check Paper Archive+complete,0.0
+MinCalculate Capacity+complete->Check System+complete,32648.0
+MinCalculate Capacity+complete->Process Credit Check Reply+complete,0.0
+MinCalculate Capacity+complete->Register Application+complete,NaN
+MinCalculate Capacity+complete->Reject+complete,1287.0
+MinCalculate Capacity+complete->Send Credit Check Request+complete,0.0
+MinCalculate Capacity+complete->Send Decision E-mail+complete,142781.0
+MinCheck Credit+complete->Accept+complete,242033.0
+MinCheck Credit+complete->Calculate Capacity+complete,13710.0
+MinCheck Credit+complete->Check Credit+complete,0.0
+MinCheck Credit+complete->Check Paper Archive+complete,0.0
+MinCheck Credit+complete->Check System+complete,12423.0
+MinCheck Credit+complete->Process Credit Check Reply+complete,0.0
+MinCheck Credit+complete->Register Application+complete,NaN
+MinCheck Credit+complete->Reject+complete,46932.0
+MinCheck Credit+complete->Send Credit Check Request+complete,0.0
+MinCheck Credit+complete->Send Decision E-mail+complete,94526.0
+MinCheck Paper Archive+complete->Accept+complete,0.0
+MinCheck Paper Archive+complete->Calculate Capacity+complete,0.0
+MinCheck Paper Archive+complete->Check Credit+complete,0.0
+MinCheck Paper Archive+complete->Check Paper Archive+complete,0.0
+MinCheck Paper Archive+complete->Check System+complete,0.0
+MinCheck Paper Archive+complete->Process Credit Check Reply+complete,0.0
+MinCheck Paper Archive+complete->Register Application+complete,0.0
+MinCheck Paper Archive+complete->Reject+complete,0.0
+MinCheck Paper Archive+complete->Send Credit Check Request+complete,0.0
+MinCheck Paper Archive+complete->Send Decision E-mail+complete,0.0
+MinCheck System+complete->Accept+complete,28872.0
+MinCheck System+complete->Calculate Capacity+complete,4256.0
+MinCheck System+complete->Check Credit+complete,85008.0
+MinCheck System+complete->Check Paper Archive+complete,0.0
+MinCheck System+complete->Check System+complete,0.0
+MinCheck System+complete->Process Credit Check Reply+complete,0.0
+MinCheck System+complete->Register Application+complete,NaN
+MinCheck System+complete->Reject+complete,34113.0
+MinCheck System+complete->Send Credit Check Request+complete,0.0
+MinCheck System+complete->Send Decision E-mail+complete,71951.0
+MinProcess Credit Check Reply+complete->Accept+complete,0.0
+MinProcess Credit Check Reply+complete->Calculate Capacity+complete,0.0
+MinProcess Credit Check Reply+complete->Check Credit+complete,0.0
+MinProcess Credit Check Reply+complete->Check Paper Archive+complete,0.0
+MinProcess Credit Check Reply+complete->Check System+complete,0.0
+MinProcess Credit Check Reply+complete->Process Credit Check Reply+complete,0.0
+MinProcess Credit Check Reply+complete->Register Application+complete,0.0
+MinProcess Credit Check Reply+complete->Reject+complete,0.0
+MinProcess Credit Check Reply+complete->Send Credit Check Request+complete,0.0
+MinProcess Credit Check Reply+complete->Send Decision E-mail+complete,0.0
+MinRegister Application+complete->Accept+complete,658691.0
+MinRegister Application+complete->Calculate Capacity+complete,126942.0
+MinRegister Application+complete->Check Credit+complete,9487.0
+MinRegister Application+complete->Check Paper Archive+complete,0.0
+MinRegister Application+complete->Check System+complete,161281.0
+MinRegister Application+complete->Process Credit Check Reply+complete,0.0
+MinRegister Application+complete->Register Application+complete,0.0
+MinRegister Application+complete->Reject+complete,357600.0
+MinRegister Application+complete->Send Credit Check Request+complete,0.0
+MinRegister Application+complete->Send Decision E-mail+complete,435516.0
+MinReject+complete->Accept+complete,NaN
+MinReject+complete->Calculate Capacity+complete,NaN
+MinReject+complete->Check Credit+complete,NaN
+MinReject+complete->Check Paper Archive+complete,0.0
+MinReject+complete->Check System+complete,NaN
+MinReject+complete->Process Credit Check Reply+complete,0.0
+MinReject+complete->Register Application+complete,NaN
+MinReject+complete->Reject+complete,0.0
+MinReject+complete->Send Credit Check Request+complete,0.0
+MinReject+complete->Send Decision E-mail+complete,4815.0
+MinSend Credit Check Request+complete->Accept+complete,0.0
+MinSend Credit Check Request+complete->Calculate Capacity+complete,0.0
+MinSend Credit Check Request+complete->Check Credit+complete,0.0
+MinSend Credit Check Request+complete->Check Paper Archive+complete,0.0
+MinSend Credit Check Request+complete->Check System+complete,0.0
+MinSend Credit Check Request+complete->Process Credit Check Reply+complete,0.0
+MinSend Credit Check Request+complete->Register Application+complete,0.0
+MinSend Credit Check Request+complete->Reject+complete,0.0
+MinSend Credit Check Request+complete->Send Credit Check Request+complete,0.0
+MinSend Credit Check Request+complete->Send Decision E-mail+complete,0.0
+MinSend Decision E-mail+complete->Accept+complete,NaN
+MinSend Decision E-mail+complete->Calculate Capacity+complete,NaN
+MinSend Decision E-mail+complete->Check Credit+complete,NaN
+MinSend Decision E-mail+complete->Check Paper Archive+complete,0.0
+MinSend Decision E-mail+complete->Check System+complete,NaN
+MinSend Decision E-mail+complete->Process Credit Check Reply+complete,0.0
+MinSend Decision E-mail+complete->Register Application+complete,NaN
+MinSend Decision E-mail+complete->Reject+complete,NaN
+MinSend Decision E-mail+complete->Send Credit Check Request+complete,0.0
+MinSend Decision E-mail+complete->Send Decision E-mail+complete,0.0
+StdAccept+complete->Accept+complete,0.0
+StdAccept+complete->Calculate Capacity+complete,NaN
+StdAccept+complete->Check Credit+complete,NaN
+StdAccept+complete->Check Paper Archive+complete,0.0
+StdAccept+complete->Check System+complete,NaN
+StdAccept+complete->Process Credit Check Reply+complete,0.0
+StdAccept+complete->Register Application+complete,NaN
+StdAccept+complete->Reject+complete,NaN
+StdAccept+complete->Send Credit Check Request+complete,0.0
+StdAccept+complete->Send Decision E-mail+complete,138994.50407017235
+StdCalculate Capacity+complete->Accept+complete,236715.6423176395
+StdCalculate Capacity+complete->Calculate Capacity+complete,0.0
+StdCalculate Capacity+complete->Check Credit+complete,190731.82253082094
+StdCalculate Capacity+complete->Check Paper Archive+complete,0.0
+StdCalculate Capacity+complete->Check System+complete,149751.79653418498
+StdCalculate Capacity+complete->Process Credit Check Reply+complete,0.0
+StdCalculate Capacity+complete->Register Application+complete,NaN
+StdCalculate Capacity+complete->Reject+complete,280482.1390231144
+StdCalculate Capacity+complete->Send Credit Check Request+complete,0.0
+StdCalculate Capacity+complete->Send Decision E-mail+complete,335951.09033805336
+StdCheck Credit+complete->Accept+complete,355450.54160192615
+StdCheck Credit+complete->Calculate Capacity+complete,274680.7959694668
+StdCheck Credit+complete->Check Credit+complete,0.0
+StdCheck Credit+complete->Check Paper Archive+complete,0.0
+StdCheck Credit+complete->Check System+complete,229260.01996970357
+StdCheck Credit+complete->Process Credit Check Reply+complete,0.0
+StdCheck Credit+complete->Register Application+complete,NaN
+StdCheck Credit+complete->Reject+complete,338032.668987308
+StdCheck Credit+complete->Send Credit Check Request+complete,0.0
+StdCheck Credit+complete->Send Decision E-mail+complete,402059.5926597288
+StdCheck Paper Archive+complete->Accept+complete,0.0
+StdCheck Paper Archive+complete->Calculate Capacity+complete,0.0
+StdCheck Paper Archive+complete->Check Credit+complete,0.0
+StdCheck Paper Archive+complete->Check Paper Archive+complete,0.0
+StdCheck Paper Archive+complete->Check System+complete,0.0
+StdCheck Paper Archive+complete->Process Credit Check Reply+complete,0.0
+StdCheck Paper Archive+complete->Register Application+complete,0.0
+StdCheck Paper Archive+complete->Reject+complete,0.0
+StdCheck Paper Archive+complete->Send Credit Check Request+complete,0.0
+StdCheck Paper Archive+complete->Send Decision E-mail+complete,0.0
+StdCheck System+complete->Accept+complete,285042.6045839156
+StdCheck System+complete->Calculate Capacity+complete,206630.41928275267
+StdCheck System+complete->Check Credit+complete,370066.7331611576
+StdCheck System+complete->Check Paper Archive+complete,0.0
+StdCheck System+complete->Check System+complete,0.0
+StdCheck System+complete->Process Credit Check Reply+complete,0.0
+StdCheck System+complete->Register Application+complete,NaN
+StdCheck System+complete->Reject+complete,307517.09198923747
+StdCheck System+complete->Send Credit Check Request+complete,0.0
+StdCheck System+complete->Send Decision E-mail+complete,339263.43117592693
+StdProcess Credit Check Reply+complete->Accept+complete,0.0
+StdProcess Credit Check Reply+complete->Calculate Capacity+complete,0.0
+StdProcess Credit Check Reply+complete->Check Credit+complete,0.0
+StdProcess Credit Check Reply+complete->Check Paper Archive+complete,0.0
+StdProcess Credit Check Reply+complete->Check System+complete,0.0
+StdProcess Credit Check Reply+complete->Process Credit Check Reply+complete,0.0
+StdProcess Credit Check Reply+complete->Register Application+complete,0.0
+StdProcess Credit Check Reply+complete->Reject+complete,0.0
+StdProcess Credit Check Reply+complete->Send Credit Check Request+complete,0.0
+StdProcess Credit Check Reply+complete->Send Decision E-mail+complete,0.0
+StdRegister Application+complete->Accept+complete,390120.47691340774
+StdRegister Application+complete->Calculate Capacity+complete,338640.18000252504
+StdRegister Application+complete->Check Credit+complete,251681.8379944662
+StdRegister Application+complete->Check Paper Archive+complete,0.0
+StdRegister Application+complete->Check System+complete,282636.9030229756
+StdRegister Application+complete->Process Credit Check Reply+complete,0.0
+StdRegister Application+complete->Register Application+complete,0.0
+StdRegister Application+complete->Reject+complete,338116.4691656672
+StdRegister Application+complete->Send Credit Check Request+complete,0.0
+StdRegister Application+complete->Send Decision E-mail+complete,403879.9232146112
+StdReject+complete->Accept+complete,NaN
+StdReject+complete->Calculate Capacity+complete,NaN
+StdReject+complete->Check Credit+complete,NaN
+StdReject+complete->Check Paper Archive+complete,0.0
+StdReject+complete->Check System+complete,NaN
+StdReject+complete->Process Credit Check Reply+complete,0.0
+StdReject+complete->Register Application+complete,NaN
+StdReject+complete->Reject+complete,0.0
+StdReject+complete->Send Credit Check Request+complete,0.0
+StdReject+complete->Send Decision E-mail+complete,172380.67824862004
+StdSend Credit Check Request+complete->Accept+complete,0.0
+StdSend Credit Check Request+complete->Calculate Capacity+complete,0.0
+StdSend Credit Check Request+complete->Check Credit+complete,0.0
+StdSend Credit Check Request+complete->Check Paper Archive+complete,0.0
+StdSend Credit Check Request+complete->Check System+complete,0.0
+StdSend Credit Check Request+complete->Process Credit Check Reply+complete,0.0
+StdSend Credit Check Request+complete->Register Application+complete,0.0
+StdSend Credit Check Request+complete->Reject+complete,0.0
+StdSend Credit Check Request+complete->Send Credit Check Request+complete,0.0
+StdSend Credit Check Request+complete->Send Decision E-mail+complete,0.0
+StdSend Decision E-mail+complete->Accept+complete,NaN
+StdSend Decision E-mail+complete->Calculate Capacity+complete,NaN
+StdSend Decision E-mail+complete->Check Credit+complete,NaN
+StdSend Decision E-mail+complete->Check Paper Archive+complete,0.0
+StdSend Decision E-mail+complete->Check System+complete,NaN
+StdSend Decision E-mail+complete->Process Credit Check Reply+complete,0.0
+StdSend Decision E-mail+complete->Register Application+complete,NaN
+StdSend Decision E-mail+complete->Reject+complete,NaN
+StdSend Decision E-mail+complete->Send Credit Check Request+complete,0.0
+StdSend Decision E-mail+complete->Send Decision E-mail+complete,0.0
