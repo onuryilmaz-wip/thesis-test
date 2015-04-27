@@ -1,4 +1,4 @@
-setwd("C:/ONUR/THESIS/ECLIPSE/Thesis-V1/test/loan/inductive")
+setwd("C:/ONUR/THESIS/ECLIPSE/thesis-test/test/loan/inductive")
 require(data.table)
 
 data1=read.csv("ETM_Configuration1_KPI.txt", header=FALSE)
@@ -43,3 +43,24 @@ wss <- (nrow(stdValuesClean )-1)*sum(apply(stdValuesClean ,2,var))
 for (i in 1:3) wss[i] <- sum(kmeans(stdValuesClean ,	centers=i)$withinss)
 plot(1:3, wss, type="b", xlab="Number of Clusters", ylab="Within groups sum of squares")
 
+avgValues = test[1:144,]
+avgValues [avgValues ==0] <-NaN
+avgValuesClean <- avgValues [complete.cases(avgValues ), ]
+avgValuesClean = t(avgValuesClean )
+colnames(avgValuesClean ) = (avgValuesClean [1,])
+avgValuesClean = avgValuesClean [2:5,]
+
+wss <- (nrow(avgValuesClean)-1)*sum(apply(avgValuesClean,2,var))
+for (i in 1:3) wss[i] <- sum(kmeans(avgValuesClean,	centers=i)$withinss)
+plot(1:3, wss, type="b", xlab="Number of Clusters", ylab="Within groups sum of squares")
+kmeansResult = kmeans(avgValuesClean,2)
+
+
+totalValues = test[-c(145:432),]
+totalValues [totalValues ==0] <-NaN
+totalValuesClean <- totalValues [complete.cases(stdValues ), ]
+totalValuesClean = t(totalValuesClean )
+colnames(totalValuesClean ) = (totalValuesClean [1,])
+totalValuesClean = totalValuesClean [2:5,]
+kmeansResultTotal = kmeans(totalValuesClean ,2)
+ 
