@@ -1,0 +1,186 @@
+Clustering with 1 clusters..
+Squared Error: 17.406010525471988
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 01_HOOFD_010->01_HOOFD_011(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_011(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Std) numeric
+
+@data
+341416022.727273,335000357.580645,334683405.625,220945005.152382,304183118.836977,306141646.755683
+
+kMeans
+======
+
+Number of iterations: 1
+Within cluster sum of squared errors: 17.406010525471988
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                       Cluster#
+Attribute                              Full Data              0
+                                             (5)            (5)
+===============================================================
+01_HOOFD_010->01_HOOFD_011(Avg)   341416022.7273 341416022.7273
+01_HOOFD_010->01_HOOFD_015(Avg)   335000357.5806 335000357.5806
+01_HOOFD_010->01_HOOFD_020(Avg)    334683405.625  334683405.625
+01_HOOFD_010->01_HOOFD_011(Std)   220945005.1524 220945005.1524
+01_HOOFD_010->01_HOOFD_015(Std)    304183118.837  304183118.837
+01_HOOFD_010->01_HOOFD_020(Std)   306141646.7557 306141646.7557
+
+
+
+Clustering with 2 clusters..
+Squared Error: 0.2486776678714107
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 01_HOOFD_010->01_HOOFD_011(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_011(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Std) numeric
+
+@data
+725811000,741392375,741398625,607326943.293314,1033980924.079265,1033980947.471084
+245317278.409091,233402353.225806,233004600.78125,124349520.617149,121733667.526406,124181821.576832
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 0.2486776678714107
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                         Cluster#
+Attribute                               Full Data               0               1
+                                              (5)             (1)             (4)
+=================================================================================
+01_HOOFD_010->01_HOOFD_011(Avg)    341416022.7273       725811000  245317278.4091
+01_HOOFD_010->01_HOOFD_015(Avg)    335000357.5806       741392375  233402353.2258
+01_HOOFD_010->01_HOOFD_020(Avg)     334683405.625       741398625  233004600.7813
+01_HOOFD_010->01_HOOFD_011(Std)    220945005.1524  607326943.2933  124349520.6171
+01_HOOFD_010->01_HOOFD_015(Std)     304183118.837 1033980924.0793  121733667.5264
+01_HOOFD_010->01_HOOFD_020(Std)    306141646.7557 1033980947.4711  124181821.5768
+
+
+
+Clustering with 3 clusters..
+Squared Error: 0.09125722695159229
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 01_HOOFD_010->01_HOOFD_011(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_011(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Std) numeric
+
+@data
+725811000,741392375,741398625,607326943.293314,1033980924.079265,1033980947.471084
+312701806.818182,292749456.451613,288076201.5625,166865364.161096,167316414.159252,166530319.633852
+177932750,174055250,177933000,81833677.073203,76150920.893559,81833323.519812
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 0.09125722695159229
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                         Cluster#
+Attribute                               Full Data               0               1               2
+                                              (5)             (1)             (2)             (2)
+=================================================================================================
+01_HOOFD_010->01_HOOFD_011(Avg)    341416022.7273       725811000  312701806.8182       177932750
+01_HOOFD_010->01_HOOFD_015(Avg)    335000357.5806       741392375  292749456.4516       174055250
+01_HOOFD_010->01_HOOFD_020(Avg)     334683405.625       741398625  288076201.5625       177933000
+01_HOOFD_010->01_HOOFD_011(Std)    220945005.1524  607326943.2933  166865364.1611   81833677.0732
+01_HOOFD_010->01_HOOFD_015(Std)     304183118.837 1033980924.0793  167316414.1593   76150920.8936
+01_HOOFD_010->01_HOOFD_020(Std)    306141646.7557 1033980947.4711  166530319.6339   81833323.5198
+
+
+
+Clustering with 4 clusters..
+Squared Error: 0.012740677672430836
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 01_HOOFD_010->01_HOOFD_011(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_011(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Std) numeric
+
+@data
+725811000,741392375,741398625,607326943.293314,1033980924.079265,1033980947.471084
+312701806.818182,292749456.451613,288076201.5625,166865364.161096,167316414.159252,166530319.633852
+223336000,215580500,223336000,153052974.254014,141688169.001508,153052974.254014
+132529500,132530000,132530000,10614379.892391,10613672.78561,10613672.78561
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 0.012740677672430836
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                         Cluster#
+Attribute                               Full Data               0               1               2               3
+                                              (5)             (1)             (2)             (1)             (1)
+=================================================================================================================
+01_HOOFD_010->01_HOOFD_011(Avg)    341416022.7273       725811000  312701806.8182       223336000       132529500
+01_HOOFD_010->01_HOOFD_015(Avg)    335000357.5806       741392375  292749456.4516       215580500       132530000
+01_HOOFD_010->01_HOOFD_020(Avg)     334683405.625       741398625  288076201.5625       223336000       132530000
+01_HOOFD_010->01_HOOFD_011(Std)    220945005.1524  607326943.2933  166865364.1611   153052974.254   10614379.8924
+01_HOOFD_010->01_HOOFD_015(Std)     304183118.837 1033980924.0793  167316414.1593  141688169.0015   10613672.7856
+01_HOOFD_010->01_HOOFD_020(Std)    306141646.7557 1033980947.4711  166530319.6339   153052974.254   10613672.7856
+
+
+
+Clustering with 5 clusters..
+Squared Error: 0.0
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 01_HOOFD_010->01_HOOFD_011(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Avg) numeric
+@attribute 01_HOOFD_010->01_HOOFD_011(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_015(Std) numeric
+@attribute 01_HOOFD_010->01_HOOFD_020(Std) numeric
+
+@data
+725811000,741392375,741398625,607326943.293314,1033980924.079265,1033980947.471084
+279803613.636364,299523612.903226,290170203.125,189155875.737103,198101324.881192,196533039.407303
+223336000,215580500,223336000,153052974.254014,141688169.001508,153052974.254014
+132529500,132530000,132530000,10614379.892391,10613672.78561,10613672.78561
+345600000,285975300,285982200,144574852.585088,136531503.437312,136527599.860402
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 0.0
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                         Cluster#
+Attribute                               Full Data               0               1               2               3               4
+                                              (5)             (1)             (1)             (1)             (1)             (1)
+=================================================================================================================================
+01_HOOFD_010->01_HOOFD_011(Avg)    341416022.7273       725811000  279803613.6364       223336000       132529500       345600000
+01_HOOFD_010->01_HOOFD_015(Avg)    335000357.5806       741392375  299523612.9032       215580500       132530000       285975300
+01_HOOFD_010->01_HOOFD_020(Avg)     334683405.625       741398625   290170203.125       223336000       132530000       285982200
+01_HOOFD_010->01_HOOFD_011(Std)    220945005.1524  607326943.2933  189155875.7371   153052974.254   10614379.8924  144574852.5851
+01_HOOFD_010->01_HOOFD_015(Std)     304183118.837 1033980924.0793  198101324.8812  141688169.0015   10613672.7856  136531503.4373
+01_HOOFD_010->01_HOOFD_020(Std)    306141646.7557 1033980947.4711  196533039.4073   153052974.254   10613672.7856  136527599.8604
+
+
+
+Cluster size selected: 2
