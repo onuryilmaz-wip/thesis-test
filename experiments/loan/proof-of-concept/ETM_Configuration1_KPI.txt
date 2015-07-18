@@ -1,0 +1,576 @@
+AvgAccept->Accept,0.0
+AvgAccept->Calculate Capacity,NaN
+AvgAccept->Check Credit,NaN
+AvgAccept->Check Paper Archive,0.0
+AvgAccept->Check System,NaN
+AvgAccept->Process Credit Check Reply,0.0
+AvgAccept->Register Application,NaN
+AvgAccept->Reject,NaN
+AvgAccept->Send Credit Check Request,0.0
+AvgAccept->Send Decision E-mail,244305.35
+AvgAccept->tau join,NaN
+AvgAccept->tau split,NaN
+AvgCalculate Capacity->Accept,344584.80000000005
+AvgCalculate Capacity->Calculate Capacity,0.0
+AvgCalculate Capacity->Check Credit,423342.75
+AvgCalculate Capacity->Check Paper Archive,0.0
+AvgCalculate Capacity->Check System,285681.63043478265
+AvgCalculate Capacity->Process Credit Check Reply,0.0
+AvgCalculate Capacity->Register Application,NaN
+AvgCalculate Capacity->Reject,457705.325
+AvgCalculate Capacity->Send Credit Check Request,0.0
+AvgCalculate Capacity->Send Decision E-mail,733895.92
+AvgCalculate Capacity->tau join,NaN
+AvgCalculate Capacity->tau split,NaN
+AvgCheck Credit->Accept,780635.05
+AvgCheck Credit->Calculate Capacity,420984.77173913026
+AvgCheck Credit->Check Credit,0.0
+AvgCheck Credit->Check Paper Archive,0.0
+AvgCheck Credit->Check System,426453.9024390245
+AvgCheck Credit->Process Credit Check Reply,0.0
+AvgCheck Credit->Register Application,NaN
+AvgCheck Credit->Reject,790490.975
+AvgCheck Credit->Send Credit Check Request,0.0
+AvgCheck Credit->Send Decision E-mail,1087334.4900000002
+AvgCheck Credit->tau join,NaN
+AvgCheck Credit->tau split,NaN
+AvgCheck Paper Archive->Accept,0.0
+AvgCheck Paper Archive->Calculate Capacity,0.0
+AvgCheck Paper Archive->Check Credit,0.0
+AvgCheck Paper Archive->Check Paper Archive,0.0
+AvgCheck Paper Archive->Check System,0.0
+AvgCheck Paper Archive->Process Credit Check Reply,0.0
+AvgCheck Paper Archive->Register Application,0.0
+AvgCheck Paper Archive->Reject,0.0
+AvgCheck Paper Archive->Send Credit Check Request,0.0
+AvgCheck Paper Archive->Send Decision E-mail,0.0
+AvgCheck Paper Archive->tau join,0.0
+AvgCheck Paper Archive->tau split,0.0
+AvgCheck System->Accept,489605.7368421052
+AvgCheck System->Calculate Capacity,343398.3181818182
+AvgCheck System->Check Credit,501254.5
+AvgCheck System->Check Paper Archive,0.0
+AvgCheck System->Check System,0.0
+AvgCheck System->Process Credit Check Reply,0.0
+AvgCheck System->Register Application,NaN
+AvgCheck System->Reject,460292.3521126761
+AvgCheck System->Send Credit Check Request,0.0
+AvgCheck System->Send Decision E-mail,766364.1333333335
+AvgCheck System->tau join,NaN
+AvgCheck System->tau split,NaN
+AvgProcess Credit Check Reply->Accept,0.0
+AvgProcess Credit Check Reply->Calculate Capacity,0.0
+AvgProcess Credit Check Reply->Check Credit,0.0
+AvgProcess Credit Check Reply->Check Paper Archive,0.0
+AvgProcess Credit Check Reply->Check System,0.0
+AvgProcess Credit Check Reply->Process Credit Check Reply,0.0
+AvgProcess Credit Check Reply->Register Application,0.0
+AvgProcess Credit Check Reply->Reject,0.0
+AvgProcess Credit Check Reply->Send Credit Check Request,0.0
+AvgProcess Credit Check Reply->Send Decision E-mail,0.0
+AvgProcess Credit Check Reply->tau join,0.0
+AvgProcess Credit Check Reply->tau split,0.0
+AvgRegister Application->Accept,1134453.75
+AvgRegister Application->Calculate Capacity,720540.6699999999
+AvgRegister Application->Check Credit,367102.10000000003
+AvgRegister Application->Check Paper Archive,0.0
+AvgRegister Application->Check System,712301.9111111109
+AvgRegister Application->Process Credit Check Reply,0.0
+AvgRegister Application->Register Application,0.0
+AvgRegister Application->Reject,1160913.9250000003
+AvgRegister Application->Send Credit Check Request,0.0
+AvgRegister Application->Send Decision E-mail,1454436.5899999996
+AvgRegister Application->tau join,NaN
+AvgRegister Application->tau split,NaN
+AvgReject->Accept,NaN
+AvgReject->Calculate Capacity,NaN
+AvgReject->Check Credit,NaN
+AvgReject->Check Paper Archive,0.0
+AvgReject->Check System,NaN
+AvgReject->Process Credit Check Reply,0.0
+AvgReject->Register Application,NaN
+AvgReject->Reject,0.0
+AvgReject->Send Credit Check Request,0.0
+AvgReject->Send Decision E-mail,312442.0374999999
+AvgReject->tau join,NaN
+AvgReject->tau split,NaN
+AvgSend Credit Check Request->Accept,0.0
+AvgSend Credit Check Request->Calculate Capacity,0.0
+AvgSend Credit Check Request->Check Credit,0.0
+AvgSend Credit Check Request->Check Paper Archive,0.0
+AvgSend Credit Check Request->Check System,0.0
+AvgSend Credit Check Request->Process Credit Check Reply,0.0
+AvgSend Credit Check Request->Register Application,0.0
+AvgSend Credit Check Request->Reject,0.0
+AvgSend Credit Check Request->Send Credit Check Request,0.0
+AvgSend Credit Check Request->Send Decision E-mail,0.0
+AvgSend Credit Check Request->tau join,0.0
+AvgSend Credit Check Request->tau split,0.0
+AvgSend Decision E-mail->Accept,NaN
+AvgSend Decision E-mail->Calculate Capacity,NaN
+AvgSend Decision E-mail->Check Credit,NaN
+AvgSend Decision E-mail->Check Paper Archive,0.0
+AvgSend Decision E-mail->Check System,NaN
+AvgSend Decision E-mail->Process Credit Check Reply,0.0
+AvgSend Decision E-mail->Register Application,NaN
+AvgSend Decision E-mail->Reject,NaN
+AvgSend Decision E-mail->Send Credit Check Request,0.0
+AvgSend Decision E-mail->Send Decision E-mail,0.0
+AvgSend Decision E-mail->tau join,NaN
+AvgSend Decision E-mail->tau split,NaN
+Avgtau join->Accept,NaN
+Avgtau join->Calculate Capacity,NaN
+Avgtau join->Check Credit,NaN
+Avgtau join->Check Paper Archive,0.0
+Avgtau join->Check System,NaN
+Avgtau join->Process Credit Check Reply,0.0
+Avgtau join->Register Application,NaN
+Avgtau join->Reject,NaN
+Avgtau join->Send Credit Check Request,0.0
+Avgtau join->Send Decision E-mail,NaN
+Avgtau join->tau join,NaN
+Avgtau join->tau split,NaN
+Avgtau split->Accept,NaN
+Avgtau split->Calculate Capacity,NaN
+Avgtau split->Check Credit,NaN
+Avgtau split->Check Paper Archive,0.0
+Avgtau split->Check System,NaN
+Avgtau split->Process Credit Check Reply,0.0
+Avgtau split->Register Application,NaN
+Avgtau split->Reject,NaN
+Avgtau split->Send Credit Check Request,0.0
+Avgtau split->Send Decision E-mail,NaN
+Avgtau split->tau join,NaN
+Avgtau split->tau split,NaN
+MaxAccept->Accept,0.0
+MaxAccept->Calculate Capacity,NaN
+MaxAccept->Check Credit,NaN
+MaxAccept->Check Paper Archive,0.0
+MaxAccept->Check System,NaN
+MaxAccept->Process Credit Check Reply,0.0
+MaxAccept->Register Application,NaN
+MaxAccept->Reject,NaN
+MaxAccept->Send Credit Check Request,0.0
+MaxAccept->Send Decision E-mail,491867.0
+MaxAccept->tau join,NaN
+MaxAccept->tau split,NaN
+MaxCalculate Capacity->Accept,856965.0
+MaxCalculate Capacity->Calculate Capacity,0.0
+MaxCalculate Capacity->Check Credit,592544.0
+MaxCalculate Capacity->Check Paper Archive,0.0
+MaxCalculate Capacity->Check System,595936.0
+MaxCalculate Capacity->Process Credit Check Reply,0.0
+MaxCalculate Capacity->Register Application,NaN
+MaxCalculate Capacity->Reject,1171690.0
+MaxCalculate Capacity->Send Credit Check Request,0.0
+MaxCalculate Capacity->Send Decision E-mail,1669826.0
+MaxCalculate Capacity->tau join,NaN
+MaxCalculate Capacity->tau split,NaN
+MaxCheck Credit->Accept,1607737.0
+MaxCheck Credit->Calculate Capacity,1073910.0
+MaxCheck Credit->Check Credit,0.0
+MaxCheck Credit->Check Paper Archive,0.0
+MaxCheck Credit->Check System,1089019.0
+MaxCheck Credit->Process Credit Check Reply,0.0
+MaxCheck Credit->Register Application,NaN
+MaxCheck Credit->Reject,1554325.0
+MaxCheck Credit->Send Credit Check Request,0.0
+MaxCheck Credit->Send Decision E-mail,2057716.0
+MaxCheck Credit->tau join,NaN
+MaxCheck Credit->tau split,NaN
+MaxCheck Paper Archive->Accept,0.0
+MaxCheck Paper Archive->Calculate Capacity,0.0
+MaxCheck Paper Archive->Check Credit,0.0
+MaxCheck Paper Archive->Check Paper Archive,0.0
+MaxCheck Paper Archive->Check System,0.0
+MaxCheck Paper Archive->Process Credit Check Reply,0.0
+MaxCheck Paper Archive->Register Application,0.0
+MaxCheck Paper Archive->Reject,0.0
+MaxCheck Paper Archive->Send Credit Check Request,0.0
+MaxCheck Paper Archive->Send Decision E-mail,0.0
+MaxCheck Paper Archive->tau join,0.0
+MaxCheck Paper Archive->tau split,0.0
+MaxCheck System->Accept,1086886.0
+MaxCheck System->Calculate Capacity,973134.0
+MaxCheck System->Check Credit,1031082.0
+MaxCheck System->Check Paper Archive,0.0
+MaxCheck System->Check System,0.0
+MaxCheck System->Process Credit Check Reply,0.0
+MaxCheck System->Register Application,NaN
+MaxCheck System->Reject,1217964.0
+MaxCheck System->Send Credit Check Request,0.0
+MaxCheck System->Send Decision E-mail,1727179.0
+MaxCheck System->tau join,NaN
+MaxCheck System->tau split,NaN
+MaxProcess Credit Check Reply->Accept,0.0
+MaxProcess Credit Check Reply->Calculate Capacity,0.0
+MaxProcess Credit Check Reply->Check Credit,0.0
+MaxProcess Credit Check Reply->Check Paper Archive,0.0
+MaxProcess Credit Check Reply->Check System,0.0
+MaxProcess Credit Check Reply->Process Credit Check Reply,0.0
+MaxProcess Credit Check Reply->Register Application,0.0
+MaxProcess Credit Check Reply->Reject,0.0
+MaxProcess Credit Check Reply->Send Credit Check Request,0.0
+MaxProcess Credit Check Reply->Send Decision E-mail,0.0
+MaxProcess Credit Check Reply->tau join,0.0
+MaxProcess Credit Check Reply->tau split,0.0
+MaxRegister Application->Accept,2162860.0
+MaxRegister Application->Calculate Capacity,1629033.0
+MaxRegister Application->Check Credit,1292650.0
+MaxRegister Application->Check Paper Archive,0.0
+MaxRegister Application->Check System,1533467.0
+MaxRegister Application->Process Credit Check Reply,0.0
+MaxRegister Application->Register Application,0.0
+MaxRegister Application->Reject,1846331.0
+MaxRegister Application->Send Credit Check Request,0.0
+MaxRegister Application->Send Decision E-mail,2433443.0
+MaxRegister Application->tau join,NaN
+MaxRegister Application->tau split,NaN
+MaxReject->Accept,NaN
+MaxReject->Calculate Capacity,NaN
+MaxReject->Check Credit,NaN
+MaxReject->Check Paper Archive,0.0
+MaxReject->Check System,NaN
+MaxReject->Process Credit Check Reply,0.0
+MaxReject->Register Application,NaN
+MaxReject->Reject,0.0
+MaxReject->Send Credit Check Request,0.0
+MaxReject->Send Decision E-mail,599376.0
+MaxReject->tau join,NaN
+MaxReject->tau split,NaN
+MaxSend Credit Check Request->Accept,0.0
+MaxSend Credit Check Request->Calculate Capacity,0.0
+MaxSend Credit Check Request->Check Credit,0.0
+MaxSend Credit Check Request->Check Paper Archive,0.0
+MaxSend Credit Check Request->Check System,0.0
+MaxSend Credit Check Request->Process Credit Check Reply,0.0
+MaxSend Credit Check Request->Register Application,0.0
+MaxSend Credit Check Request->Reject,0.0
+MaxSend Credit Check Request->Send Credit Check Request,0.0
+MaxSend Credit Check Request->Send Decision E-mail,0.0
+MaxSend Credit Check Request->tau join,0.0
+MaxSend Credit Check Request->tau split,0.0
+MaxSend Decision E-mail->Accept,NaN
+MaxSend Decision E-mail->Calculate Capacity,NaN
+MaxSend Decision E-mail->Check Credit,NaN
+MaxSend Decision E-mail->Check Paper Archive,0.0
+MaxSend Decision E-mail->Check System,NaN
+MaxSend Decision E-mail->Process Credit Check Reply,0.0
+MaxSend Decision E-mail->Register Application,NaN
+MaxSend Decision E-mail->Reject,NaN
+MaxSend Decision E-mail->Send Credit Check Request,0.0
+MaxSend Decision E-mail->Send Decision E-mail,0.0
+MaxSend Decision E-mail->tau join,NaN
+MaxSend Decision E-mail->tau split,NaN
+Maxtau join->Accept,NaN
+Maxtau join->Calculate Capacity,NaN
+Maxtau join->Check Credit,NaN
+Maxtau join->Check Paper Archive,0.0
+Maxtau join->Check System,NaN
+Maxtau join->Process Credit Check Reply,0.0
+Maxtau join->Register Application,NaN
+Maxtau join->Reject,NaN
+Maxtau join->Send Credit Check Request,0.0
+Maxtau join->Send Decision E-mail,NaN
+Maxtau join->tau join,NaN
+Maxtau join->tau split,NaN
+Maxtau split->Accept,NaN
+Maxtau split->Calculate Capacity,NaN
+Maxtau split->Check Credit,NaN
+Maxtau split->Check Paper Archive,0.0
+Maxtau split->Check System,NaN
+Maxtau split->Process Credit Check Reply,0.0
+Maxtau split->Register Application,NaN
+Maxtau split->Reject,NaN
+Maxtau split->Send Credit Check Request,0.0
+Maxtau split->Send Decision E-mail,NaN
+Maxtau split->tau join,NaN
+Maxtau split->tau split,NaN
+MinAccept->Accept,0.0
+MinAccept->Calculate Capacity,NaN
+MinAccept->Check Credit,NaN
+MinAccept->Check Paper Archive,0.0
+MinAccept->Check System,NaN
+MinAccept->Process Credit Check Reply,0.0
+MinAccept->Register Application,NaN
+MinAccept->Reject,NaN
+MinAccept->Send Credit Check Request,0.0
+MinAccept->Send Decision E-mail,43079.0
+MinAccept->tau join,NaN
+MinAccept->tau split,NaN
+MinCalculate Capacity->Accept,39786.0
+MinCalculate Capacity->Calculate Capacity,0.0
+MinCalculate Capacity->Check Credit,54773.0
+MinCalculate Capacity->Check Paper Archive,0.0
+MinCalculate Capacity->Check System,32648.0
+MinCalculate Capacity->Process Credit Check Reply,0.0
+MinCalculate Capacity->Register Application,NaN
+MinCalculate Capacity->Reject,1287.0
+MinCalculate Capacity->Send Credit Check Request,0.0
+MinCalculate Capacity->Send Decision E-mail,142781.0
+MinCalculate Capacity->tau join,NaN
+MinCalculate Capacity->tau split,NaN
+MinCheck Credit->Accept,242033.0
+MinCheck Credit->Calculate Capacity,13710.0
+MinCheck Credit->Check Credit,0.0
+MinCheck Credit->Check Paper Archive,0.0
+MinCheck Credit->Check System,12423.0
+MinCheck Credit->Process Credit Check Reply,0.0
+MinCheck Credit->Register Application,NaN
+MinCheck Credit->Reject,46932.0
+MinCheck Credit->Send Credit Check Request,0.0
+MinCheck Credit->Send Decision E-mail,94526.0
+MinCheck Credit->tau join,NaN
+MinCheck Credit->tau split,NaN
+MinCheck Paper Archive->Accept,0.0
+MinCheck Paper Archive->Calculate Capacity,0.0
+MinCheck Paper Archive->Check Credit,0.0
+MinCheck Paper Archive->Check Paper Archive,0.0
+MinCheck Paper Archive->Check System,0.0
+MinCheck Paper Archive->Process Credit Check Reply,0.0
+MinCheck Paper Archive->Register Application,0.0
+MinCheck Paper Archive->Reject,0.0
+MinCheck Paper Archive->Send Credit Check Request,0.0
+MinCheck Paper Archive->Send Decision E-mail,0.0
+MinCheck Paper Archive->tau join,0.0
+MinCheck Paper Archive->tau split,0.0
+MinCheck System->Accept,28872.0
+MinCheck System->Calculate Capacity,4256.0
+MinCheck System->Check Credit,85008.0
+MinCheck System->Check Paper Archive,0.0
+MinCheck System->Check System,0.0
+MinCheck System->Process Credit Check Reply,0.0
+MinCheck System->Register Application,NaN
+MinCheck System->Reject,34113.0
+MinCheck System->Send Credit Check Request,0.0
+MinCheck System->Send Decision E-mail,71951.0
+MinCheck System->tau join,NaN
+MinCheck System->tau split,NaN
+MinProcess Credit Check Reply->Accept,0.0
+MinProcess Credit Check Reply->Calculate Capacity,0.0
+MinProcess Credit Check Reply->Check Credit,0.0
+MinProcess Credit Check Reply->Check Paper Archive,0.0
+MinProcess Credit Check Reply->Check System,0.0
+MinProcess Credit Check Reply->Process Credit Check Reply,0.0
+MinProcess Credit Check Reply->Register Application,0.0
+MinProcess Credit Check Reply->Reject,0.0
+MinProcess Credit Check Reply->Send Credit Check Request,0.0
+MinProcess Credit Check Reply->Send Decision E-mail,0.0
+MinProcess Credit Check Reply->tau join,0.0
+MinProcess Credit Check Reply->tau split,0.0
+MinRegister Application->Accept,658691.0
+MinRegister Application->Calculate Capacity,126942.0
+MinRegister Application->Check Credit,9487.0
+MinRegister Application->Check Paper Archive,0.0
+MinRegister Application->Check System,161281.0
+MinRegister Application->Process Credit Check Reply,0.0
+MinRegister Application->Register Application,0.0
+MinRegister Application->Reject,357600.0
+MinRegister Application->Send Credit Check Request,0.0
+MinRegister Application->Send Decision E-mail,435516.0
+MinRegister Application->tau join,NaN
+MinRegister Application->tau split,NaN
+MinReject->Accept,NaN
+MinReject->Calculate Capacity,NaN
+MinReject->Check Credit,NaN
+MinReject->Check Paper Archive,0.0
+MinReject->Check System,NaN
+MinReject->Process Credit Check Reply,0.0
+MinReject->Register Application,NaN
+MinReject->Reject,0.0
+MinReject->Send Credit Check Request,0.0
+MinReject->Send Decision E-mail,4815.0
+MinReject->tau join,NaN
+MinReject->tau split,NaN
+MinSend Credit Check Request->Accept,0.0
+MinSend Credit Check Request->Calculate Capacity,0.0
+MinSend Credit Check Request->Check Credit,0.0
+MinSend Credit Check Request->Check Paper Archive,0.0
+MinSend Credit Check Request->Check System,0.0
+MinSend Credit Check Request->Process Credit Check Reply,0.0
+MinSend Credit Check Request->Register Application,0.0
+MinSend Credit Check Request->Reject,0.0
+MinSend Credit Check Request->Send Credit Check Request,0.0
+MinSend Credit Check Request->Send Decision E-mail,0.0
+MinSend Credit Check Request->tau join,0.0
+MinSend Credit Check Request->tau split,0.0
+MinSend Decision E-mail->Accept,NaN
+MinSend Decision E-mail->Calculate Capacity,NaN
+MinSend Decision E-mail->Check Credit,NaN
+MinSend Decision E-mail->Check Paper Archive,0.0
+MinSend Decision E-mail->Check System,NaN
+MinSend Decision E-mail->Process Credit Check Reply,0.0
+MinSend Decision E-mail->Register Application,NaN
+MinSend Decision E-mail->Reject,NaN
+MinSend Decision E-mail->Send Credit Check Request,0.0
+MinSend Decision E-mail->Send Decision E-mail,0.0
+MinSend Decision E-mail->tau join,NaN
+MinSend Decision E-mail->tau split,NaN
+Mintau join->Accept,NaN
+Mintau join->Calculate Capacity,NaN
+Mintau join->Check Credit,NaN
+Mintau join->Check Paper Archive,0.0
+Mintau join->Check System,NaN
+Mintau join->Process Credit Check Reply,0.0
+Mintau join->Register Application,NaN
+Mintau join->Reject,NaN
+Mintau join->Send Credit Check Request,0.0
+Mintau join->Send Decision E-mail,NaN
+Mintau join->tau join,NaN
+Mintau join->tau split,NaN
+Mintau split->Accept,NaN
+Mintau split->Calculate Capacity,NaN
+Mintau split->Check Credit,NaN
+Mintau split->Check Paper Archive,0.0
+Mintau split->Check System,NaN
+Mintau split->Process Credit Check Reply,0.0
+Mintau split->Register Application,NaN
+Mintau split->Reject,NaN
+Mintau split->Send Credit Check Request,0.0
+Mintau split->Send Decision E-mail,NaN
+Mintau split->tau join,NaN
+Mintau split->tau split,NaN
+StdAccept->Accept,0.0
+StdAccept->Calculate Capacity,NaN
+StdAccept->Check Credit,NaN
+StdAccept->Check Paper Archive,0.0
+StdAccept->Check System,NaN
+StdAccept->Process Credit Check Reply,0.0
+StdAccept->Register Application,NaN
+StdAccept->Reject,NaN
+StdAccept->Send Credit Check Request,0.0
+StdAccept->Send Decision E-mail,138994.50407017235
+StdAccept->tau join,NaN
+StdAccept->tau split,NaN
+StdCalculate Capacity->Accept,236715.6423176395
+StdCalculate Capacity->Calculate Capacity,0.0
+StdCalculate Capacity->Check Credit,190731.82253082094
+StdCalculate Capacity->Check Paper Archive,0.0
+StdCalculate Capacity->Check System,149751.79653418498
+StdCalculate Capacity->Process Credit Check Reply,0.0
+StdCalculate Capacity->Register Application,NaN
+StdCalculate Capacity->Reject,280482.1390231144
+StdCalculate Capacity->Send Credit Check Request,0.0
+StdCalculate Capacity->Send Decision E-mail,335951.09033805336
+StdCalculate Capacity->tau join,NaN
+StdCalculate Capacity->tau split,NaN
+StdCheck Credit->Accept,355450.54160192615
+StdCheck Credit->Calculate Capacity,274680.7959694668
+StdCheck Credit->Check Credit,0.0
+StdCheck Credit->Check Paper Archive,0.0
+StdCheck Credit->Check System,229260.01996970357
+StdCheck Credit->Process Credit Check Reply,0.0
+StdCheck Credit->Register Application,NaN
+StdCheck Credit->Reject,338032.668987308
+StdCheck Credit->Send Credit Check Request,0.0
+StdCheck Credit->Send Decision E-mail,402059.5926597288
+StdCheck Credit->tau join,NaN
+StdCheck Credit->tau split,NaN
+StdCheck Paper Archive->Accept,0.0
+StdCheck Paper Archive->Calculate Capacity,0.0
+StdCheck Paper Archive->Check Credit,0.0
+StdCheck Paper Archive->Check Paper Archive,0.0
+StdCheck Paper Archive->Check System,0.0
+StdCheck Paper Archive->Process Credit Check Reply,0.0
+StdCheck Paper Archive->Register Application,0.0
+StdCheck Paper Archive->Reject,0.0
+StdCheck Paper Archive->Send Credit Check Request,0.0
+StdCheck Paper Archive->Send Decision E-mail,0.0
+StdCheck Paper Archive->tau join,0.0
+StdCheck Paper Archive->tau split,0.0
+StdCheck System->Accept,285042.6045839156
+StdCheck System->Calculate Capacity,206630.41928275267
+StdCheck System->Check Credit,370066.7331611576
+StdCheck System->Check Paper Archive,0.0
+StdCheck System->Check System,0.0
+StdCheck System->Process Credit Check Reply,0.0
+StdCheck System->Register Application,NaN
+StdCheck System->Reject,307517.09198923747
+StdCheck System->Send Credit Check Request,0.0
+StdCheck System->Send Decision E-mail,339263.43117592693
+StdCheck System->tau join,NaN
+StdCheck System->tau split,NaN
+StdProcess Credit Check Reply->Accept,0.0
+StdProcess Credit Check Reply->Calculate Capacity,0.0
+StdProcess Credit Check Reply->Check Credit,0.0
+StdProcess Credit Check Reply->Check Paper Archive,0.0
+StdProcess Credit Check Reply->Check System,0.0
+StdProcess Credit Check Reply->Process Credit Check Reply,0.0
+StdProcess Credit Check Reply->Register Application,0.0
+StdProcess Credit Check Reply->Reject,0.0
+StdProcess Credit Check Reply->Send Credit Check Request,0.0
+StdProcess Credit Check Reply->Send Decision E-mail,0.0
+StdProcess Credit Check Reply->tau join,0.0
+StdProcess Credit Check Reply->tau split,0.0
+StdRegister Application->Accept,390120.47691340774
+StdRegister Application->Calculate Capacity,338640.18000252504
+StdRegister Application->Check Credit,251681.8379944662
+StdRegister Application->Check Paper Archive,0.0
+StdRegister Application->Check System,282636.9030229756
+StdRegister Application->Process Credit Check Reply,0.0
+StdRegister Application->Register Application,0.0
+StdRegister Application->Reject,338116.4691656672
+StdRegister Application->Send Credit Check Request,0.0
+StdRegister Application->Send Decision E-mail,403879.9232146112
+StdRegister Application->tau join,NaN
+StdRegister Application->tau split,NaN
+StdReject->Accept,NaN
+StdReject->Calculate Capacity,NaN
+StdReject->Check Credit,NaN
+StdReject->Check Paper Archive,0.0
+StdReject->Check System,NaN
+StdReject->Process Credit Check Reply,0.0
+StdReject->Register Application,NaN
+StdReject->Reject,0.0
+StdReject->Send Credit Check Request,0.0
+StdReject->Send Decision E-mail,172380.67824862004
+StdReject->tau join,NaN
+StdReject->tau split,NaN
+StdSend Credit Check Request->Accept,0.0
+StdSend Credit Check Request->Calculate Capacity,0.0
+StdSend Credit Check Request->Check Credit,0.0
+StdSend Credit Check Request->Check Paper Archive,0.0
+StdSend Credit Check Request->Check System,0.0
+StdSend Credit Check Request->Process Credit Check Reply,0.0
+StdSend Credit Check Request->Register Application,0.0
+StdSend Credit Check Request->Reject,0.0
+StdSend Credit Check Request->Send Credit Check Request,0.0
+StdSend Credit Check Request->Send Decision E-mail,0.0
+StdSend Credit Check Request->tau join,0.0
+StdSend Credit Check Request->tau split,0.0
+StdSend Decision E-mail->Accept,NaN
+StdSend Decision E-mail->Calculate Capacity,NaN
+StdSend Decision E-mail->Check Credit,NaN
+StdSend Decision E-mail->Check Paper Archive,0.0
+StdSend Decision E-mail->Check System,NaN
+StdSend Decision E-mail->Process Credit Check Reply,0.0
+StdSend Decision E-mail->Register Application,NaN
+StdSend Decision E-mail->Reject,NaN
+StdSend Decision E-mail->Send Credit Check Request,0.0
+StdSend Decision E-mail->Send Decision E-mail,0.0
+StdSend Decision E-mail->tau join,NaN
+StdSend Decision E-mail->tau split,NaN
+Stdtau join->Accept,NaN
+Stdtau join->Calculate Capacity,NaN
+Stdtau join->Check Credit,NaN
+Stdtau join->Check Paper Archive,0.0
+Stdtau join->Check System,NaN
+Stdtau join->Process Credit Check Reply,0.0
+Stdtau join->Register Application,NaN
+Stdtau join->Reject,NaN
+Stdtau join->Send Credit Check Request,0.0
+Stdtau join->Send Decision E-mail,NaN
+Stdtau join->tau join,NaN
+Stdtau join->tau split,NaN
+Stdtau split->Accept,NaN
+Stdtau split->Calculate Capacity,NaN
+Stdtau split->Check Credit,NaN
+Stdtau split->Check Paper Archive,0.0
+Stdtau split->Check System,NaN
+Stdtau split->Process Credit Check Reply,0.0
+Stdtau split->Register Application,NaN
+Stdtau split->Reject,NaN
+Stdtau split->Send Credit Check Request,0.0
+Stdtau split->Send Decision E-mail,NaN
+Stdtau split->tau join,NaN
+Stdtau split->tau split,NaN
