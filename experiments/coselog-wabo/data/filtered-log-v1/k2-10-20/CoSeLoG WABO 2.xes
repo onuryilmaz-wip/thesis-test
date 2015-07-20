@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- XES version 1.0 -->
+<!-- Created by Fluxicon Disco (http://fluxicon.com/disco/ -->
+<!-- (c) 2012 Fluxicon Process Laboratories - http://fluxicon.com/ -->
+<log xes.version="1.0" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<string key="org:resource" value="resource"/>
+		<date key="time:timestamp" value="2015-07-19T21:16:45.007+03:00"/>
+		<string key="(case)_creator" value="string"/>
+		<string key="(case)_IDofConceptCase" value="string"/>
+		<string key="(case)_Includes_subCases" value="string"/>
+		<string key="(case)_Responsible_actor" value="string"/>
+		<string key="(case)_SUMleges" value="string"/>
+		<string key="(case)_caseProcedure" value="string"/>
+		<string key="(case)_caseStatus" value="string"/>
+		<string key="(case)_case_type" value="string"/>
+		<string key="(case)_landRegisterID" value="string"/>
+		<string key="(case)_last_phase" value="string"/>
+		<string key="(case)_parts" value="string"/>
+		<string key="(case)_requestComplete" value="string"/>
+		<string key="(case)_termName" value="string"/>
+		<string key="action_code" value="string"/>
+		<string key="concept:name" value="string"/>
+		<string key="dateFinished" value="string"/>
+		<string key="dateStop" value="string"/>
+		<string key="dueDate" value="string"/>
+		<string key="lifecycle:transition" value="string"/>
+		<string key="monitoringResource" value="string"/>
+		<string key="org:resource" value="string"/>
+		<string key="planned" value="string"/>
+		<string key="question" value="string"/>
+		<string key="question_answer" value="string"/>
+		<string key="question_code" value="string"/>
+		<string key="taskForMainCase" value="string"/>
+		<string key="taskName" value="string"/>
+	</global>
+	<classifier name="Activity" keys="concept:name lifecycle:transition"/>
+	<classifier name="Resource" keys="org:resource"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="20395152"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2013-03-07T01:00:00.000+02:00"/>
+			<string key="(case)_creator" value="Fluxicon Disco"/>
+			<string key="(case)_IDofConceptCase" value="20395278"/>
+			<string key="(case)_Includes_subCases" value="N"/>
+			<string key="(case)_Responsible_actor" value="560519"/>
+			<string key="(case)_caseStatus" value="G"/>
+			<string key="(case)_case_type" value="557669"/>
+			<string key="(case)_last_phase" value="Zaak afgehandeld"/>
+			<string key="(case)_parts" value="Bouw"/>
+			<string key="(case)_requestComplete" value="TRUE"/>
+			<string key="(case)_termName" value="Termijn tot besluit"/>
+			<string key="action_code" value="01_HOOFD_010"/>
+			<string key="concept:name" value="01_HOOFD_010"/>
+			<string key="dateFinished" value="2013-03-08 10:43:59"/>
+			<string key="monitoringResource" value="560532"/>
+			<string key="org:resource" value="560532"/>
+			<string key="planned" value="2013-03-13T10:42:30+01:00"/>
+			<string key="question" value="EMPTY"/>
+			<string key="taskForMainCase" value="true"/>
+			<string key="taskName" value="Registratie datum binnenkomst aanvraag"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2013-03-08T11:43:44.000+02:00"/>
+			<string key="(case)_creator" value="Fluxicon Disco"/>
+			<string key="(case)_IDofConceptCase" value="20395278"/>
+			<string key="(case)_Includes_subCases" value="N"/>
+			<string key="(case)_Responsible_actor" value="560519"/>
+			<string key="(case)_caseStatus" value="G"/>
+			<string key="(case)_case_type" value="557669"/>
+			<string key="(case)_last_phase" value="Zaak afgehandeld"/>
+			<string key="(case)_parts" value="Bouw"/>
+			<string key="(case)_requestComplete" value="TRUE"/>
+			<string key="(case)_termName" value="Termijn tot besluit"/>
+			<string key="action_code" value="01_HOOFD_011"/>
+			<string key="concept:name" value="01_HOOFD_011"/>
+			<string key="dateFinished" value="2013-03-08 10:43:59"/>
+			<string key="monitoringResource" value="560519"/>
+			<string key="org:resource" value="560532"/>
+			<string key="planned" value="2013-03-09T10:43:44+01:00"/>
+			<string key="question" value="False"/>
+			<string key="question_answer" value="False"/>
+			<string key="question_code" value="HOOFD_011_OLO_Berichtenverkeer_actief"/>
+			<string key="taskForMainCase" value="true"/>
+			<string key="taskName" value="OLO Berichtenverkeer actief"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2013-03-08T11:43:45.000+02:00"/>
+			<string key="(case)_creator" value="Fluxicon Disco"/>
+			<string key="(case)_IDofConceptCase" value="20395278"/>
+			<string key="(case)_Includes_subCases" value="N"/>
+			<string key="(case)_Responsible_actor" value="560519"/>
+			<string key="(case)_caseStatus" value="G"/>
+			<string key="(case)_case_type" value="557669"/>
+			<string key="(case)_last_phase" value="Zaak afgehandeld"/>
+			<string key="(case)_parts" value="Bouw"/>
+			<string key="(case)_requestComplete" value="TRUE"/>
+			<string key="(case)_termName" value="Termijn tot besluit"/>
+			<string key="action_code" value="01_HOOFD_020"/>
+			<string key="concept:name" value="01_HOOFD_020"/>
+			<string key="dateFinished" value="2013-03-08 10:43:59"/>
+			<string key="monitoringResource" value="560519"/>
+			<string key="org:resource" value="560532"/>
+			<string key="planned" value="2013-03-09T10:43:45+01:00"/>
+			<string key="question" value="True"/>
+			<string key="question_answer" value="True"/>
+			<string key="question_code" value="HOOFD_020_Ontvangstbevestiging_versturen"/>
+			<string key="taskForMainCase" value="true"/>
+			<string key="taskName" value="Bevestiging ontvangst versturen"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="20528315"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2013-04-17T01:00:00.000+03:00"/>
+			<string key="(case)_creator" value="Fluxicon Disco"/>
+			<string key="(case)_IDofConceptCase" value="20528802"/>
+			<string key="(case)_Includes_subCases" value="N"/>
+			<string key="(case)_Responsible_actor" value="560521"/>
+			<string key="(case)_caseStatus" value="G"/>
+			<string key="(case)_case_type" value="557669"/>
+			<string key="(case)_landRegisterID" value="20529427"/>
+			<string key="(case)_last_phase" value="Aanvraag ontvangen"/>
+			<string key="(case)_parts" value="Bouw"/>
+			<string key="(case)_requestComplete" value="TRUE"/>
+			<string key="(case)_termName" value="Termijn tot besluit"/>
+			<string key="action_code" value="01_HOOFD_010"/>
+			<string key="concept:name" value="01_HOOFD_010"/>
+			<string key="dateFinished" value="2013-04-18 14:53:59"/>
+			<string key="monitoringResource" value="560530"/>
+			<string key="org:resource" value="560530"/>
+			<string key="planned" value="2013-04-23T14:49:09+02:00"/>
+			<string key="question" value="EMPTY"/>
+			<string key="taskForMainCase" value="true"/>
+			<string key="taskName" value="Registratie datum binnenkomst aanvraag"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2013-04-18T15:53:55.000+03:00"/>
+			<string key="(case)_creator" value="Fluxicon Disco"/>
+			<string key="(case)_IDofConceptCase" value="20528802"/>
+			<string key="(case)_Includes_subCases" value="N"/>
+			<string key="(case)_Responsible_actor" value="560521"/>
+			<string key="(case)_caseStatus" value="G"/>
+			<string key="(case)_case_type" value="557669"/>
+			<string key="(case)_landRegisterID" value="20529427"/>
+			<string key="(case)_last_phase" value="Aanvraag ontvangen"/>
+			<string key="(case)_parts" value="Bouw"/>
+			<string key="(case)_requestComplete" value="TRUE"/>
+			<string key="(case)_termName" value="Termijn tot besluit"/>
+			<string key="action_code" value="01_HOOFD_011"/>
+			<string key="concept:name" value="01_HOOFD_011"/>
+			<string key="dateFinished" value="2013-04-18 14:54:00"/>
+			<string key="monitoringResource" value="560530"/>
+			<string key="org:resource" value="560530"/>
+			<string key="planned" value="2013-04-19T14:53:55+02:00"/>
+			<string key="question" value="False"/>
+			<string key="question_answer" value="False"/>
+			<string key="question_code" value="HOOFD_011_OLO_Berichtenverkeer_actief"/>
+			<string key="taskForMainCase" value="true"/>
+			<string key="taskName" value="OLO Berichtenverkeer actief"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2013-04-18T15:53:55.000+03:00"/>
+			<string key="(case)_creator" value="Fluxicon Disco"/>
+			<string key="(case)_IDofConceptCase" value="20528802"/>
+			<string key="(case)_Includes_subCases" value="N"/>
+			<string key="(case)_Responsible_actor" value="560521"/>
+			<string key="(case)_caseStatus" value="G"/>
+			<string key="(case)_case_type" value="557669"/>
+			<string key="(case)_landRegisterID" value="20529427"/>
+			<string key="(case)_last_phase" value="Aanvraag ontvangen"/>
+			<string key="(case)_parts" value="Bouw"/>
+			<string key="(case)_requestComplete" value="TRUE"/>
+			<string key="(case)_termName" value="Termijn tot besluit"/>
+			<string key="action_code" value="01_HOOFD_020"/>
+			<string key="concept:name" value="01_HOOFD_020"/>
+			<string key="dateFinished" value="2013-04-18 14:54:00"/>
+			<string key="monitoringResource" value="560530"/>
+			<string key="org:resource" value="560530"/>
+			<string key="planned" value="2013-04-19T14:53:55+02:00"/>
+			<string key="question" value="True"/>
+			<string key="question_answer" value="True"/>
+			<string key="question_code" value="HOOFD_020_Ontvangstbevestiging_versturen"/>
+			<string key="taskForMainCase" value="true"/>
+			<string key="taskName" value="Bevestiging ontvangst versturen"/>
+		</event>
+	</trace>
+</log>

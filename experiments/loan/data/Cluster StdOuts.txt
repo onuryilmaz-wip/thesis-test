@@ -1,0 +1,205 @@
+#############################################################################################
+#############################################################################################
+
+@relation crossorgdata
+@attribute "Calculate Capacity->Accept(Avg)" numeric
+@attribute "Calculate Capacity->Reject(Avg)" numeric
+@attribute "Register Application->Accept(Avg)" numeric
+@attribute "Register Application->Calculate Capacity(Avg)" numeric
+@attribute "Register Application->Reject(Avg)" numeric
+@attribute "Calculate Capacity->Accept(Std)" numeric
+@attribute "Calculate Capacity->Reject(Std)" numeric
+@attribute "Register Application->Accept(Std)" numeric
+@attribute "Register Application->Calculate Capacity(Std)" numeric
+@attribute "Register Application->Reject(Std)" numeric
+
+@data
+344584.80000000005,457705.325,1134453.75,720540.6699999999,1160913.9250000003,236715.6423176395,280482.1390231144,390120.47691340774,338640.18000252504,338116.4691656672,
+627919.8499999999,619818.8800000001,1531803.05,868344.9857142859,1473948.58,235477.1617682912,270704.0504612145,426959.3907295578,280691.75296283216,416407.05765295017,
+586728.833333333,644070.3999999999,896377.9666666668,305970.05500000005,944521.8374999998,249534.06254552942,256245.6682233484,286400.6298848155,175978.68874969575,327233.1932102755,
+303957.91111111117,301999.45,1549573.6000000003,1237271.6571428576,1533013.0833333333,185378.3290032505,186875.44447041303,376762.59065360803,374892.356890559,467101.2028069194,
+
+#############################################################################################
+#############################################################################################
+
+Clustering with 1 clusters..
+Squared Error: 15.269290940664183
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 'Calculate Capacity->Accept(Avg)' numeric
+@attribute 'Calculate Capacity->Reject(Avg)' numeric
+@attribute 'Register Application->Accept(Avg)' numeric
+@attribute 'Register Application->Calculate Capacity(Avg)' numeric
+@attribute 'Register Application->Reject(Avg)' numeric
+@attribute 'Calculate Capacity->Accept(Std)' numeric
+@attribute 'Calculate Capacity->Reject(Std)' numeric
+@attribute 'Register Application->Accept(Std)' numeric
+@attribute 'Register Application->Calculate Capacity(Std)' numeric
+@attribute 'Register Application->Reject(Std)' numeric
+
+@data
+465797.848611,505898.51375,1278052.091667,783031.841964,1278099.356458,226776.298909,248576.825545,370060.772045,292550.744651,387214.480709
+
+kMeans
+======
+
+Number of iterations: 1
+Within cluster sum of squared errors: 15.269290940664183
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                                 Cluster#
+Attribute                                          Full Data            0
+                                                         (4)          (4)
+=========================================================================
+Calculate Capacity->Accept(Avg)                  465797.8486  465797.8486
+Calculate Capacity->Reject(Avg)                  505898.5138  505898.5138
+Register Application->Accept(Avg)               1278052.0917 1278052.0917
+Register Application->Calculate Capacity(Avg)     783031.842   783031.842
+Register Application->Reject(Avg)               1278099.3565 1278099.3565
+Calculate Capacity->Accept(Std)                  226776.2989  226776.2989
+Calculate Capacity->Reject(Std)                  248576.8255  248576.8255
+Register Application->Accept(Std)                 370060.772   370060.772
+Register Application->Calculate Capacity(Std)    292550.7447  292550.7447
+Register Application->Reject(Std)                387214.4807  387214.4807
+
+#############################################################################################
+#############################################################################################
+
+
+Clustering with 2 clusters..
+Squared Error: 3.3130840041831613
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 'Calculate Capacity->Accept(Avg)' numeric
+@attribute 'Calculate Capacity->Reject(Avg)' numeric
+@attribute 'Register Application->Accept(Avg)' numeric
+@attribute 'Register Application->Calculate Capacity(Avg)' numeric
+@attribute 'Register Application->Reject(Avg)' numeric
+@attribute 'Calculate Capacity->Accept(Std)' numeric
+@attribute 'Calculate Capacity->Reject(Std)' numeric
+@attribute 'Register Application->Accept(Std)' numeric
+@attribute 'Register Application->Calculate Capacity(Std)' numeric
+@attribute 'Register Application->Reject(Std)' numeric
+
+@data
+586728.833333,644070.4,896377.966667,305970.055,944521.8375,249534.062546,256245.668223,286400.629885,175978.68875,327233.19321
+425487.52037,459841.218333,1405276.8,942052.437619,1389291.862778,219190.377696,246020.544652,397947.486099,331408.096619,407208.243209
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 3.3130840041831613
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                                 Cluster#
+Attribute                                          Full Data            0            1
+                                                         (4)          (1)          (3)
+======================================================================================
+Calculate Capacity->Accept(Avg)                  465797.8486  586728.8333  425487.5204
+Calculate Capacity->Reject(Avg)                  505898.5138     644070.4  459841.2183
+Register Application->Accept(Avg)               1278052.0917  896377.9667    1405276.8
+Register Application->Calculate Capacity(Avg)     783031.842   305970.055  942052.4376
+Register Application->Reject(Avg)               1278099.3565  944521.8375 1389291.8628
+Calculate Capacity->Accept(Std)                  226776.2989  249534.0625  219190.3777
+Calculate Capacity->Reject(Std)                  248576.8255  256245.6682  246020.5447
+Register Application->Accept(Std)                 370060.772  286400.6299  397947.4861
+Register Application->Calculate Capacity(Std)    292550.7447  175978.6887  331408.0966
+Register Application->Reject(Std)                387214.4807  327233.1932  407208.2432
+
+#############################################################################################
+#############################################################################################
+
+Clustering with 3 clusters..
+Squared Error: 1.9337283736318804
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 'Calculate Capacity->Accept(Avg)' numeric
+@attribute 'Calculate Capacity->Reject(Avg)' numeric
+@attribute 'Register Application->Accept(Avg)' numeric
+@attribute 'Register Application->Calculate Capacity(Avg)' numeric
+@attribute 'Register Application->Reject(Avg)' numeric
+@attribute 'Calculate Capacity->Accept(Std)' numeric
+@attribute 'Calculate Capacity->Reject(Std)' numeric
+@attribute 'Register Application->Accept(Std)' numeric
+@attribute 'Register Application->Calculate Capacity(Std)' numeric
+@attribute 'Register Application->Reject(Std)' numeric
+
+@data
+586728.833333,644070.4,896377.966667,305970.055,944521.8375,249534.062546,256245.668223,286400.629885,175978.68875,327233.19321
+324271.355556,379852.3875,1342013.675,978906.163571,1346963.504167,211046.98566,233678.791747,383441.533784,356766.268447,402608.835986
+627919.85,619818.88,1531803.05,868344.985714,1473948.58,235477.161768,270704.050461,426959.39073,280691.752963,416407.057653
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 1.9337283736318804
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                                 Cluster#
+Attribute                                          Full Data            0            1            2
+                                                         (4)          (1)          (2)          (1)
+===================================================================================================
+Calculate Capacity->Accept(Avg)                  465797.8486  586728.8333  324271.3556    627919.85
+Calculate Capacity->Reject(Avg)                  505898.5138     644070.4  379852.3875    619818.88
+Register Application->Accept(Avg)               1278052.0917  896377.9667  1342013.675   1531803.05
+Register Application->Calculate Capacity(Avg)     783031.842   305970.055  978906.1636  868344.9857
+Register Application->Reject(Avg)               1278099.3565  944521.8375 1346963.5042   1473948.58
+Calculate Capacity->Accept(Std)                  226776.2989  249534.0625  211046.9857  235477.1618
+Calculate Capacity->Reject(Std)                  248576.8255  256245.6682  233678.7917  270704.0505
+Register Application->Accept(Std)                 370060.772  286400.6299  383441.5338  426959.3907
+Register Application->Calculate Capacity(Std)    292550.7447  175978.6887  356766.2684   280691.753
+Register Application->Reject(Std)                387214.4807  327233.1932   402608.836  416407.0577
+
+
+#############################################################################################
+#############################################################################################
+
+
+Clustering with 4 clusters..
+Squared Error: 0.0
+@relation crossorgdata-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute 'Calculate Capacity->Accept(Avg)' numeric
+@attribute 'Calculate Capacity->Reject(Avg)' numeric
+@attribute 'Register Application->Accept(Avg)' numeric
+@attribute 'Register Application->Calculate Capacity(Avg)' numeric
+@attribute 'Register Application->Reject(Avg)' numeric
+@attribute 'Calculate Capacity->Accept(Std)' numeric
+@attribute 'Calculate Capacity->Reject(Std)' numeric
+@attribute 'Register Application->Accept(Std)' numeric
+@attribute 'Register Application->Calculate Capacity(Std)' numeric
+@attribute 'Register Application->Reject(Std)' numeric
+
+@data
+586728.833333,644070.4,896377.966667,305970.055,944521.8375,249534.062546,256245.668223,286400.629885,175978.68875,327233.19321
+344584.8,457705.325,1134453.75,720540.67,1160913.925,236715.642318,280482.139023,390120.476913,338640.180003,338116.469166
+627919.85,619818.88,1531803.05,868344.985714,1473948.58,235477.161768,270704.050461,426959.39073,280691.752963,416407.057653
+303957.911111,301999.45,1549573.6,1237271.657143,1533013.083333,185378.329003,186875.44447,376762.590654,374892.356891,467101.202807
+
+kMeans
+======
+
+Number of iterations: 2
+Within cluster sum of squared errors: 0.0
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                                                                 Cluster#
+Attribute                                          Full Data            0            1            2            3
+                                                         (4)          (1)          (1)          (1)          (1)
+================================================================================================================
+Calculate Capacity->Accept(Avg)                  465797.8486  586728.8333     344584.8    627919.85  303957.9111
+Calculate Capacity->Reject(Avg)                  505898.5138     644070.4   457705.325    619818.88    301999.45
+Register Application->Accept(Avg)               1278052.0917  896377.9667   1134453.75   1531803.05    1549573.6
+Register Application->Calculate Capacity(Avg)     783031.842   305970.055    720540.67  868344.9857 1237271.6571
+Register Application->Reject(Avg)               1278099.3565  944521.8375  1160913.925   1473948.58 1533013.0833
+Calculate Capacity->Accept(Std)                  226776.2989  249534.0625  236715.6423  235477.1618   185378.329
+Calculate Capacity->Reject(Std)                  248576.8255  256245.6682   280482.139  270704.0505  186875.4445
+Register Application->Accept(Std)                 370060.772  286400.6299  390120.4769  426959.3907  376762.5907
+Register Application->Calculate Capacity(Std)    292550.7447  175978.6887    338640.18   280691.753  374892.3569
+Register Application->Reject(Std)                387214.4807  327233.1932  338116.4692  416407.0577  467101.2028
